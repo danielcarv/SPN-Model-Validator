@@ -1,0 +1,10 @@
+
+Init Time = 1571693769365   Final Time = 1571693771121 Total Time = 1756
+Init Time = 1571693769365   Final Time = 1571693771357 Total Time = 1992
+Init Time = 1571693769364   Final Time = 1571693771587 Total Time = 2223
+Init Time = 1571693769365   Final Time = 1571693772028 Total Time = 2663
+Init Time = 1571693769365   Final Time = 1571693772029 Total Time = 2664
+Init Time = 1571693769365   Final Time = 1571693772116 Total Time = 2751
+Init Time = 1571693769365   Final Time = 1571693772337 Total Time = 2973
+Init Time = 1571693769365   Final Time = 1571693772364 Total Time = 2999
+Init Time = 1571693769365   Final Time = 1571693772398 Total Time = 3033
